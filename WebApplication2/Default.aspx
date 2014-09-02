@@ -18,5 +18,7 @@
         onselectedindexchanged="DropDownList1_SelectedIndexChanged">
         <asp:ListItem Text="hello" Value="sadbhb"></asp:ListItem>
         <asp:ListItem Text="hello1" Value="sadbhb1"></asp:ListItem>
+        <asp:ListItem Text="hello2" Value="value2"></asp:ListItem>
+
     </asp:DropDownList>
 </asp:Content>
