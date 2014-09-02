@@ -14,4 +14,9 @@
         You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
             title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
     </p>
+    <asp:DropDownList ID="DropDownList1" runat="server" 
+        onselectedindexchanged="DropDownList1_SelectedIndexChanged">
+        <asp:ListItem Text="hello" Value="sadbhb"></asp:ListItem>
+        <asp:ListItem Text="hello1" Value="sadbhb1"></asp:ListItem>
+    </asp:DropDownList>
 </asp:Content>
